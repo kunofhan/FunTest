@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestPhone</string>
+    <string name="str_ok">震动开始</string>
+    <string name="str_end">震动结束</string>
+</resources>
